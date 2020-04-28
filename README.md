@@ -6,6 +6,6 @@
 * O código ainda está em desenvolvimento e reformulação
 * Todos os direitos estão reservados a Almerindo Paixão
 
-![Imagem da calculadora]("file:///C:/Users/almer/PycharmProjects/Calculadora/img/foto_calculadora.PNG")
+![Imagem da calculadora]("https://github.com/almerindopaixao/Calculadora/blob/master/img/foto_calculadora.PNG?raw=true")
 
 ***
